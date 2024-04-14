@@ -20,10 +20,9 @@ fazendo mais curto:
 
 ```cs
 string a, b = Console.ReadLine().Split(' '); 
-// dados = ['2', '3']
 
-int a = int.Parse(dados[0]); // int a = 2
-int b = int.Parse(dados[1]); // int b = 3
+int a = int.Parse(a); // int a = 2
+int b = int.Parse(b); // int b = 3
 ```
 
 ## Posicoes anteriores e posteriores em vetor
